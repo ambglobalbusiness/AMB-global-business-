@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://metzombaye74-prog.github.io/AMB-global-business-/sitemap.xml
